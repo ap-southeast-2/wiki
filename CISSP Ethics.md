@@ -30,3 +30,4 @@ Created by the Computer Ethics Institute
 9. Thou Shalt Think About The Social Consequences Of The Program You Are Writing Or The System You Are Designing.
 10. Thou Shalt Always Use A Computer In Ways That Insure Consideration And Respect For Your Fellow Humans.
 
+- Source: https://computerethicsinstitute.org/publications/tencommandments.html
