@@ -73,32 +73,31 @@ Additional item regarding FIPS.
 
 ## PCI Data Security Standard – High Level Overview
 
-Build and Maintain a Secure Network and Systems
-1. Install and Maintain Network Security Controls.
-2. Apply Secure Configurations to All System Components.
+Build and Maintain a Secure Network and Systems 
+- Install and Maintain Network Security Controls.
+- Apply Secure Configurations to All System Components.
 
-Protect Account Data 
-3. Protect Stored Account Data.
-4. Protect Cardholder Data with Strong Cryptography During Transmission Over Open, Public Networks.
+Protect Account Data:
+- Protect Stored Account Data.
+- Protect Cardholder Data with Strong Cryptography During Transmission Over Open, Public Networks.
 
-Maintain a Vulnerability Management Program
-5. Protect All Systems and Networks from Malicious Software.
-6. Develop and Maintain Secure Systems and Software
+Maintain a Vulnerability Management Program:
+- Protect All Systems and Networks from Malicious Software.
+- Develop and Maintain Secure Systems and Software
 
-Implement Strong Access Control Measures
-7. Restrict Access to System Components and Cardholder Data by Business Need to Know.
-8. Identify Users and Authenticate Access to System Components.
-9. Restrict Physical Access to Cardholder Data.
+Implement Strong Access Control Measures:
+- Restrict Access to System Components and Cardholder Data by Business Need to Know.
+- Identify Users and Authenticate Access to System Components.
+- Restrict Physical Access to Cardholder Data.
 
-Regularly Monitor and Test Networks
-10. Log and Monitor All Access to System Components and Cardholder Data.
-11. Test Security of Systems and Networks Regularly.
+Regularly Monitor and Test Networks:
+- Log and Monitor All Access to System Components and Cardholder Data.
+- Test Security of Systems and Networks Regularly.
 
-Maintain an Information Security Policy
-12. Support Information Security with Organizational Policies and Programs.
+Maintain an Information Security Policy:
+- Support Information Security with Organizational Policies and Programs.
 
 - Source: https://www.pcisecuritystandards.org/
-
 
 
 ## Top 5 Unusual IPv4 ranges
@@ -149,7 +148,4 @@ Port numbers range from 0 to 65,535.
 | 992 | Telnet protocol over TLS/SSL |
 | 993 | Internet Message Access Protocol over TLS/SSL (IMAPS) |
 | 995 | Post Office Protocol 3 over TLS/SSL (POP3S) |
-
-
-
 
