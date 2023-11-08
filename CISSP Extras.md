@@ -1,6 +1,14 @@
 # CISSP Extras
 
-## Top ITU Standards *
+## Useful links
+
+| Description | Source |
+|-|-|
+| CISSP Certification Exam Outline Summary | https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline | 
+| ISACA COBIT | https://www.isaca.org/resources/cobit |
+
+
+## Top ITU Standards
 
 The International Telecommunication Union (ITU) is the United Nations specialized agency for information and communication technologies – ICTs.
 
