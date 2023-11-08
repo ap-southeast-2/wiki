@@ -1,17 +1,5 @@
 # CISSP Top 10s
 
-## Top 5 Unusual IPv4 ranges
-
-| IPv4 CIDR | IPv4 Range | Number of IPs | Purpose | Source |
-|-|-|-|-|-|
-| 0.0.0.0/8 | 0.0.0.0–0.255.255.255 | 16,777,216 | This network | RFC791 |
-| 10.0.0.0/8 | 10.0.0.0–10.255.255.255 | 16,777,216 | Private-Use | RFC1918 |
-| 172.16.0.0/12 | 172.16.0.0–172.31.255.255 | 1,048,576 | Private-Use | RFC1918 |
-| 192.168.0.0/16 | 192.168.0.0–192.168.255.255 | 65,536 | Private-Use | RFC1918 |
-| 127.0.0.0/8 | 127.0.0.0–127.255.255.255 | 16,777,216 | Loopback | RFC1122 |
-
-- Source: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
-
 
 ## Top 10 NIST SP 800 Series
 
@@ -112,6 +100,20 @@ Maintain an Information Security Policy
 - Source: https://www.pcisecuritystandards.org/
 
 
+
+## Top 5 Unusual IPv4 ranges
+
+| IPv4 CIDR | IPv4 Range | Number of IPs | Purpose | Source |
+|-|-|-|-|-|
+| 0.0.0.0/8 | 0.0.0.0–0.255.255.255 | 16,777,216 | This network | RFC791 |
+| 10.0.0.0/8 | 10.0.0.0–10.255.255.255 | 16,777,216 | Private-Use | RFC1918 |
+| 172.16.0.0/12 | 172.16.0.0–172.31.255.255 | 1,048,576 | Private-Use | RFC1918 |
+| 192.168.0.0/16 | 192.168.0.0–192.168.255.255 | 65,536 | Private-Use | RFC1918 |
+| 127.0.0.0/8 | 127.0.0.0–127.255.255.255 | 16,777,216 | Loopback | RFC1122 |
+
+- Source: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
+
+
 ## Top 23 Ports
 
 Port numbers range from 0 to 65,535.
@@ -148,7 +150,6 @@ Port numbers range from 0 to 65,535.
 | 993 | Internet Message Access Protocol over TLS/SSL (IMAPS) |
 | 995 | Post Office Protocol 3 over TLS/SSL (POP3S) |
 
-Use A Computer In Ways That Insure Consideration And Respect For Your Fellow Humans.
 
-- Source: https://computerethicsinstitute.org/publications/tencommandments.html
+
 
