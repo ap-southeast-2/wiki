@@ -11,8 +11,8 @@
 | RAID 4 = Block striping + dedicated parity | Block-level striping with a dedicated parity storage disk. | RAID 4 can survive 1x storage disk failure. | 3 |
 | RAID 5 = Block striping + distributed parity | Block-level striping with distributed parity, where parity data is distributed among the storage disks. | RAID 5 can survive 1x storage disk failure. | 3 |
 | RAID 6 = Block striping + double parity | Block-level striping with double distributed parity, where two parity blocks are distributed across all storage disks. | RAID 6 can survive 2x storage disk failure. | 4 |
-| RAID 01 = Mirror of stripes | A mirror (RAID 1) of block-level striped storage disks (RAID 0). No parity. | 4 |
-| RAID 10 = Mirroring with striping inside | Block-level striping (RAID 1) among mirrored storage disks (RAID 0). No parity. | 4 |
+| RAID 01 = Mirror of stripes | A mirror (RAID 1) of block-level striped storage disks (RAID 0). No parity. | | 4 |
+| RAID 10 = Mirroring with striping inside | Block-level striping (RAID 1) among mirrored storage disks (RAID 0). No parity. | | 4 |
 
 ## RAID terms
 - Striping: Data is split across multiple storage disks.
