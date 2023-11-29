@@ -48,7 +48,8 @@ Port numbers range from 0 to 65,535.
 | 88 | TCP, UDP | Kerberos |
 | 110 | TCP | Post Office Protocol version 3 (POP3) |
 | 123 | UDP | Network Time Protocol (NTP) |
-| 161 | UDP | Simple Network Management Protocol (SNMP) |
+| 161 | UDP | Simple Network Management Protocol (SNMP) protocol |
+| 162 | TCP, UDP | Simple Network Management Protocol (SNMP) trap |
 | 220 | TCP, UDP | Internet Message Access Protocol (IMAP) |
 | 389 | TCP | Lightweight Directory Access Protocol (LDAP) |
 | 443 | TCP, UDP | Hypertext Transfer Protocol Secure (HTTPS) |
@@ -60,7 +61,10 @@ Port numbers range from 0 to 65,535.
 | 992 | TCP, UDP | Telnet protocol over TLS/SSL |
 | 993 | TCP | Internet Message Access Protocol over TLS/SSL (IMAPS) |
 | 995 | TCP, UDP | Post Office Protocol 3 over TLS/SSL (POP3S) |
+| 1812 | UDP | RADIUS authentication protocol |
+| 1813 | UDP | RADIUS accounting protocol |
 | 3389 | TCP, UDP | Remote Desktop Protocol (RDP) |
+| 3868 | TCP | Diameter base protocol |
 
 ### Source
 https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
