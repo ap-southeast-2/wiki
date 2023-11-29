@@ -43,16 +43,6 @@ Additional item regarding FIPS.
 | 27799 | Health informatics — Information security management in health using ISO/IEC 27002 | https://www.iso.org/standard/62777.html |
 
 
-## Top 10 IEEE Standards *
-
-| IEEE | Title | Source |
-|-|-|-|
-| 802.1X | IEEE Standard for Local and Metropolitan Area Networks--Port-Based Network Access Control | https://standards.ieee.org/ieee/802.1X/7345/ |
-| 802.3 | IEEE Standard for Ethernet | https://standards.ieee.org/ieee/802.3/7071/ |
-| 802.11 | IEEE Standard for Information Technology--Telecommunications and Information Exchange between Systems - Local and Metropolitan Area Networks--Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications | https://standards.ieee.org/ieee/802.11/7028/ |
-| 802.11i | IEEE Standard for information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements-Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications: Amendment 6: Medium Access Control (MAC) Security Enhancements | https://standards.ieee.org/standard/802_11i-2004.html |
-
-
 ## OWASP Top 10
 
 | 2021 | Title |
@@ -96,56 +86,4 @@ Regularly Monitor and Test Networks:
 
 Maintain an Information Security Policy:
 - Support Information Security with Organizational Policies and Programs.
-
 - Source: https://www.pcisecuritystandards.org/
-
-
-## Top 5 Unusual IPv4 ranges
-
-| IPv4 CIDR | IPv4 Range | Number of IPs | Purpose | Source |
-|-|-|-|-|-|
-| 0.0.0.0/8 | 0.0.0.0–0.255.255.255 | 16,777,216 | This network | RFC791 |
-| 10.0.0.0/8 | 10.0.0.0–10.255.255.255 | 16,777,216 | Private-Use | RFC1918 |
-| 172.16.0.0/12 | 172.16.0.0–172.31.255.255 | 1,048,576 | Private-Use | RFC1918 |
-| 192.168.0.0/16 | 192.168.0.0–192.168.255.255 | 65,536 | Private-Use | RFC1918 |
-| 127.0.0.0/8 | 127.0.0.0–127.255.255.255 | 16,777,216 | Loopback | RFC1122 |
-
-- Source: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
-
-
-## Top 23 Ports
-
-Port numbers range from 0 to 65,535.
-
-| Ports | Assignment |
-|-|-|
-| 0 - 1,023 | Well-known ports |
-| 1,024 - 49,151 | Registered ports |
-| 49152 – 65535 | Dynamic, private or ephemeral ports |
-
-| Port | Protocol |
-|-|-|
-| 20 | File Transfer Protocol (FTP) - data transfer |
-| 21 | File Transfer Protocol (FTP) - control / command |
-| 22 | Secure Shell (SSH) |
-| 22 | Secure File Transfer Protocol (SFTP) |
-| 23 | Telnet |
-| 25 | Simple Mail Transfer Protocol (SMTP) |
-| 53 | Domain Name System (DNS) |
-| 80 | Hypertext Transfer Protocol (HTTP) |
-| 88 | Kerberos |
-| 110 | Post Office Protocol version 3 (POP3) |
-| 123 | Network Time Protocol (NTP) |
-| 161 | Simple Network Management Protocol (SNMP) |
-| 220 | Internet Message Access Protocol (IMAP) |
-| 389 | Lightweight Directory Access Protocol (LDAP) |
-| 443 | Hypertext Transfer Protocol Secure (HTTPS) |
-| 465 | SMTP over TLS/SSL (SMTPS) |
-| 500 | Internet Security Association and Key Management Protocol (ISAKMP) / Internet Key Exchange (IKE) |
-| 636 | Lightweight Directory Access Protocol over TLS/SSL (LDAPS) |
-| 989 | FTP over TLS/SSL (FTPS) - data transfer |
-| 990 | FTP over TLS/SSL (FTPS) - control / command |
-| 992 | Telnet protocol over TLS/SSL |
-| 993 | Internet Message Access Protocol over TLS/SSL (IMAPS) |
-| 995 | Post Office Protocol 3 over TLS/SSL (POP3S) |
-
