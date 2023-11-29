@@ -33,7 +33,7 @@ Port numbers range from 0 to 65,535.
 | 1,024 - 49,151 | Registered ports |
 | 49152 – 65535 | Dynamic, private or ephemeral ports |
 
-| Port | Protocol |
+| Port | L3 | Protocol |
 |-|-|-|
 | 20 | TCP | File Transfer Protocol (FTP) - data transfer |
 | 21 | TCP | File Transfer Protocol (FTP) - control / command |
