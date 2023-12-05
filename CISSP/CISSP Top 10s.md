@@ -1,6 +1,5 @@
 # CISSP Top 10s
 
-
 ## Top 10 NIST SP 800 Series
 
 All of the publications are suffixed with "NIST SP 800-" followed by the numbers in the first column, below. 
@@ -61,29 +60,42 @@ Additional item regarding FIPS.
 - Source: https://owasp.org/Top10/
 
 
-## PCI Data Security Standard – High Level Overview
+## 12 Principal PCI DSS Requirements
 
 Build and Maintain a Secure Network and Systems 
-- Install and Maintain Network Security Controls.
-- Apply Secure Configurations to All System Components.
+1. Install and Maintain Network Security Controls.
+2. Apply Secure Configurations to All System Components.
 
 Protect Account Data:
-- Protect Stored Account Data.
-- Protect Cardholder Data with Strong Cryptography During Transmission Over Open, Public Networks.
+3. Protect Stored Account Data.
+4. Protect Cardholder Data with Strong Cryptography During Transmission Over Open, Public Networks.
 
 Maintain a Vulnerability Management Program:
-- Protect All Systems and Networks from Malicious Software.
-- Develop and Maintain Secure Systems and Software
+5. Protect All Systems and Networks from Malicious Software.
+6. Develop and Maintain Secure Systems and Software
 
 Implement Strong Access Control Measures:
-- Restrict Access to System Components and Cardholder Data by Business Need to Know.
-- Identify Users and Authenticate Access to System Components.
-- Restrict Physical Access to Cardholder Data.
+7. Restrict Access to System Components and Cardholder Data by Business Need to Know.
+8. Identify Users and Authenticate Access to System Components.
+9. Restrict Physical Access to Cardholder Data.
 
 Regularly Monitor and Test Networks:
-- Log and Monitor All Access to System Components and Cardholder Data.
-- Test Security of Systems and Networks Regularly.
+10. Log and Monitor All Access to System Components and Cardholder Data.
+11. Test Security of Systems and Networks Regularly.
 
 Maintain an Information Security Policy:
-- Support Information Security with Organizational Policies and Programs.
+12. Support Information Security with Organizational Policies and Programs.
+
 - Source: https://www.pcisecuritystandards.org/
+
+
+## 5 Classes of fire
+
+| Class | Description
+| A | For use with ordinary materials like cloth, wood and paper. |
+| B | For use with combustible and flammable liquids like grease, gasoline, oil and oil-based paints. | 
+| C | For use with electrical equipment like appliances, tools or other equipment that is plugged into an outlet. Class C fire extinguishers use an agent that doesn't conduct electricity.
+| D | For use with flammable metals. Often found in factories.
+| K | For use with vegetable oils, animal oils and fats in cooking appliances. Often found in commercial kitchens. |
+
+Source: https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/
