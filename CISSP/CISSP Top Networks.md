@@ -28,7 +28,7 @@ Port numbers range from 0 to 65,535.
 | 22 | TCP | Secure File Transfer Protocol (SFTP) |
 | 23 | TCP | Telnet |
 | 25 | TCP | Simple Mail Transfer Protocol (SMTP) |
-| 49 | TCP, UDP | Cisco Terminal Access Controller Access-Control System (TACACS+) |
+| 49 | TCP | Cisco Terminal Access Controller Access-Control System (TACACS+) |
 | 53 | TCP, UDP | Domain Name System (DNS) |
 | 67 | UDP | DHCP - server |
 | 68 | UDP | DHCP - client |
