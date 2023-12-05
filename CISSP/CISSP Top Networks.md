@@ -28,6 +28,7 @@ Port numbers range from 0 to 65,535.
 | 22 | TCP | Secure File Transfer Protocol (SFTP) |
 | 23 | TCP | Telnet |
 | 25 | TCP | Simple Mail Transfer Protocol (SMTP) |
+| 49 | TCP, UDP | Cisco Terminal Access Controller Access-Control System (TACACS+) |
 | 53 | TCP, UDP | Domain Name System (DNS) |
 | 67 | UDP | DHCP - server |
 | 68 | UDP | DHCP - client |
@@ -50,7 +51,7 @@ Port numbers range from 0 to 65,535.
 | 995 | TCP, UDP | Post Office Protocol 3 over TLS/SSL (POP3S) |
 | 1812 | UDP | RADIUS authentication protocol |
 | 1813 | UDP | RADIUS accounting protocol |
-| 3389 | TCP, UDP | Remote Desktop Protocol (RDP) |
+| 3389 | TCP, UDP | Microsoft Remote Desktop Protocol (RDP) |
 | 3868 | TCP | Diameter base protocol |
 
 - Source: https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
