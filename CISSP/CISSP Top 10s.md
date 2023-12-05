@@ -19,6 +19,7 @@ All of the publications are suffixed with "NIST SP 800-" followed by the numbers
 | 115 | Technical Guide to Information Security Testing and Assessment | https://csrc.nist.gov/pubs/sp/800/115/final |
 | 122 | Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) | https://csrc.nist.gov/pubs/sp/800/122/final |
 | 137 | Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations | https://csrc.nist.gov/pubs/sp/800/137/final |
+| 171 | Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations | https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final |
 | 207 | Zero Trust Architecture | https://csrc.nist.gov/pubs/sp/800/207/final |
 | 218 | Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities | https://csrc.nist.gov/pubs/sp/800/218/final |
 
@@ -37,6 +38,8 @@ Additional item regarding FIPS.
 |-|-|-|
 | 9000 | Quality management systems — Fundamentals and vocabulary | https://www.iso.org/standard/45481.html |
 | 9001 | Quality management systems — Requirements | https://www.iso.org/standard/62085.html |
+| 11889 | Information technology — Trusted platform module library | https://www.iso.org/standard/66510.html |
+| 15408 | Information security, cybersecurity and privacy protection — Evaluation criteria for IT security | https://www.iso.org/standard/72891.html |
 | 19249 | Information technology — Security techniques — Catalogue of architectural and design principles for secure products, systems and applications | https://www.iso.org/standard/64140.html |
 | 27000 | Information technology — Security techniques — Information security management systems — Overview and vocabulary | https://www.iso.org/standard/73906.html |
 | 27001 | Information security, cybersecurity and privacy protection — Information security management systems — Requirements | https://www.iso.org/standard/27001 |
