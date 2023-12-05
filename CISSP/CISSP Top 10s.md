@@ -99,12 +99,20 @@ Maintain an Information Security Policy:
 
 ## 5 Classes of fire
 
-| Class | Description |
-|-|-|
-| A | For use with ordinary materials like cloth, wood and paper. |
-| B | For use with combustible and flammable liquids like grease, gasoline, oil and oil-based paints. | 
-| C | For use with electrical equipment like appliances, tools or other equipment that is plugged into an outlet. Class C fire extinguishers use an agent that doesn't conduct electricity.
-| D | For use with flammable metals. Often found in factories.
-| K | For use with vegetable oils, animal oils and fats in cooking appliances. Often found in commercial kitchens. |
+| Class | Extinguisher | Description |
+|-|-|-|
+| A | Water, Soda acid | For use with ordinary materials like cloth, wood and paper. |
+| B | CO2, Soda acid | For use with combustible and flammable liquids like grease, gasoline, oil and oil-based paints. | 
+| C | CO2 | For use with electrical equipment like appliances, tools or other equipment that is plugged into an outlet. Class C fire extinguishers use an agent that doesn't conduct electricity.
+| D | Total immersion | For use with flammable metals. Often found in factories.
+| K | Water mist, Fire blankets | For use with vegetable oils, animal oils and fats in cooking appliances. Often found in commercial kitchens. |
+
+| Extinguisher | Class | Function |
+|-|-|-|
+| Soda acid | A, B | Supresses fuel. |
+| CO2 | B, C | Removes oxygen. |
+| Inert gas | B, C | Separates the fire triangle. |
+
+- Inert gas: FM-200, Argon, Argonite, Inergen, not Halon!
 
 - Source: https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/
