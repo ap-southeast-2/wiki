@@ -74,11 +74,11 @@ Port numbers range from 0 to 65,535.
 
 CIDR refers to Classless Inter-Domain Routing. 
 
-| Class | Description | Hosts |
-|-|-|-|
-| A | A Class A IPv4 address has 8 network prefix bits. For example, consider 44.0.0.1, where 44 is the network address and 0.0.1 is the host address. | 16,777,214 hosts |
-| B | A Class B IPv4 address has 16 network prefix bits. For example, consider 128.16.0.2, where 128.16 is the network address and 0.2 is the host address. | 65,534 hosts |
-| C | A Class C IPv4 address has 24 network prefix bits. For instance, consider 192.168.1.100, where 192.168.1 is the network address and 100 is the host address. | 254 hosts |
+| Class | Description | Address format | Addresses |
+|-|-|-|-|
+| A | A Class A IPv4 address has 8 network prefix bits. For example, consider 44.0.0.1, where 44 is the network address and 0.0.1 is the host address. | a.x.x.x/8 | 16,777,214 hosts |
+| B | A Class B IPv4 address has 16 network prefix bits. For example, consider 128.16.0.2, where 128.16 is the network address and 0.2 is the host address. | a.b.x.x/16 | 65,534 hosts |
+| C | A Class C IPv4 address has 24 network prefix bits. For instance, consider 192.168.1.100, where 192.168.1 is the network address and 100 is the host address. | a.b.c.x/24 | 254 hosts |
 
 - Source: https://aws.amazon.com/what-is/cidr/
 
