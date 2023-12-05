@@ -15,8 +15,12 @@ All of the publications are suffixed with "NIST SP 800-" followed by the numbers
 | 60 | Guide for Mapping Types of Information and Information Systems to Security Categories | https://csrc.nist.gov/pubs/sp/800/60/v1/r1/final |
 | 61 | Computer Security Incident Handling Guide | https://csrc.nist.gov/pubs/sp/800/61/r2/final |
 | 88 | Guidelines for Media Sanitization | https://csrc.nist.gov/pubs/sp/800/88/r1/final |
+| 92 | Guide to Computer Security Log Management | https://csrc.nist.gov/pubs/sp/800/92/final |
+| 115 | Technical Guide to Information Security Testing and Assessment | https://csrc.nist.gov/pubs/sp/800/115/final |
 | 122 | Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) | https://csrc.nist.gov/pubs/sp/800/122/final |
 | 137 | Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations | https://csrc.nist.gov/pubs/sp/800/137/final |
+| 207 | Zero Trust Architecture | https://csrc.nist.gov/pubs/sp/800/207/final |
+| 218 | Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities | https://csrc.nist.gov/pubs/sp/800/218/final |
 
 Additional item regarding FIPS.
 
