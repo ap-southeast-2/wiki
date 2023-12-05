@@ -96,11 +96,12 @@ Maintain an Information Security Policy:
 
 ## 5 Classes of fire
 
-| Class | Description
+| Class | Description |
+|-|-|
 | A | For use with ordinary materials like cloth, wood and paper. |
 | B | For use with combustible and flammable liquids like grease, gasoline, oil and oil-based paints. | 
 | C | For use with electrical equipment like appliances, tools or other equipment that is plugged into an outlet. Class C fire extinguishers use an agent that doesn't conduct electricity.
 | D | For use with flammable metals. Often found in factories.
 | K | For use with vegetable oils, animal oils and fats in cooking appliances. Often found in commercial kitchens. |
 
-Source: https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/
+- Source: https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/
