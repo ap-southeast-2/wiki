@@ -83,7 +83,8 @@ CIDR refers to Classless Inter-Domain Routing.
 
 # CIDR 
 
-| Address format | Addresses | Typical use
+| Address format | Addresses | Typical use |
+|-|-|-|
 | a.b.c.d/32 | 1 | Host route |
 | a.b.c.d/31 | 2 | Point-to-point links (RFC 3021) |
 | a.b.c.d/30 | 4 | Point-to-point links (glue network) |
