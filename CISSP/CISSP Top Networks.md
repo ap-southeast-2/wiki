@@ -8,6 +8,7 @@
 | 802.3 | IEEE Standard for Ethernet | https://standards.ieee.org/ieee/802.3/7071/ |
 | 802.11 | IEEE Standard for Information Technology--Telecommunications and Information Exchange between Systems - Local and Metropolitan Area Networks--Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications | https://standards.ieee.org/ieee/802.11/7028/ |
 | 802.11i | IEEE Standard for information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements-Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications: Amendment 6: Medium Access Control (MAC) Security Enhancements | https://standards.ieee.org/standard/802_11i-2004.html |
+| 802.15 | IEEE Standard for Low-Rate Wireless Networks | https://standards.ieee.org/ieee/802.15.4/7029/ |
 
 
 ## Top 5 Unusual IPv4 ranges
