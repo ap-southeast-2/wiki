@@ -1,6 +1,6 @@
 # How to setup a static website in AWS
 
-In this article I wanted to group together the relevant articles required to setup a static website in AWS, using nothing but AWS cloud services. Unfortunately, there are a lot of AWS articles that are now out of date or fail to cover off more than the basic functionality.
+In this article I wanted to group together the relevant articles required to setup a static website in AWS, using nothing but AWS cloud services. This includes setup of HTTPS/TLS and solving the 403 error. Unfortunately, there are a lot of AWS articles that are now out of date or fail to cover off more than the basic functionality.
 
 ## Initial setup
 
