@@ -1,4 +1,4 @@
-# Hello, kia ora, and g'day,
+# Kia ora, ay up, and g'day,
 
 Established in 2018, ap-southeast-2 has provided cyber advisory services for one half of a whole decade. 
 
