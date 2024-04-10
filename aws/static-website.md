@@ -5,7 +5,7 @@ In this article I wanted to group together the relevant articles required to set
 ## Initial setup
 
 Follow this article that describes the main legwork involved in getting a domain (Route 53), requesting a certificate (ACM), HTML file storage (S3 Buckets), and CDN (CloudFront).
-- [Use an Amazon CloudFront distribution to serve a static website](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html]
+- [Use an Amazon CloudFront distribution to serve a static website](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html)
 
 Different from instructions elsewhere, the S3 Buckets are never made public. Instead, they require policy (S3 Bucket) for the CDN (CloudFront) to access the HTML file storage (S3 Buckets).
 
@@ -18,20 +18,22 @@ At the end of the steps, you should be able to access either:
 
 The examples above referred to the index.html file. Requests to just example.com will result in a 403 error. Redirection requires the use of CloudFront Functions, using a piece of JavaScript.
 
-- [Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/
+- [Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 - [Redirect to index.html for S3 subfolder](https://stackoverflow.com/questions/49082709/redirect-to-index-html-for-s3-subfolder)
 
-    function handler(event) {
-      var request = event.request;
-      if (request.uri !== "/" && (request.uri.endsWith("/") || request.uri.lastIndexOf(".") < request.uri.lastIndexOf("/"))) {
-      if (request.uri.endsWith("/")) {
-         request.uri = request.uri.concat("index.html");
-      } else {
-         request.uri = request.uri.concat("/index.html");
-      }
-     }
-      return request;
-   }
+		function handler(event) {
+			var request = event.request;
+
+			if (request.uri !== "/" && (request.uri.endsWith("/") || request.uri.lastIndexOf(".") < request.uri.lastIndexOf("/"))) {
+				if (request.uri.endsWith("/")) {
+					request.uri = request.uri.concat("index.html");
+				} else {
+					request.uri = request.uri.concat("/index.html");
+				}
+			}
+			return request;
+		}
+
 
 
 Hope this helps,
